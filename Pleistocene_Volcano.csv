@@ -1,0 +1,1241 @@
+﻿Volcano Number,Volcano Name,Country,Latitude,Longitude,Elevation
+210801,South Harghita Mountains,Romania,46.13,25.88,1289
+210802,Persani Mountains,Romania,45.982,25.339,623
+210803,Apuseni Mountains,Romania,45.93,22.88,353
+210804,Lucaret Basalts,Romania,45.826,21.69,190
+210805,Bakony-Balaton Highland,Hungary,46.92,17.63,600
+210806,Little Hungarian Plain,Hungary,47.192,17.2,433
+210807,Nograd-Southern Slovakia,Hungary-Slovakia,48.159,19.79,720
+210809,Central Slovakia,Slovakia,48.403,18.877,1009
+210810,Bruntal Volcanic Field,Czech Republic,49.88,17.475,780
+210811,Cheb Basin,Czech Republic,49.97,12.392,585
+210812,East Eifel Volcanic Field,Germany,50.4,7.325,588
+210813,Rodderberg,Germany,50.62,7.2,150
+210814,Cofrentes,Spain,39.235,-1.064,514
+210816,"Columbretes, Islas",Spain,39.896,0.686,33
+211800,Amiata,Italy,42.9,11.63,1738
+211801,Radicofani,Italy,42.87,11.77,0
+211802,Torre Alfina,Italy,42.78,11.92,0
+211803,San Venanzo,Italy,42.85,12.28,466
+211804,Acquasparta,Italy,42.65,12.3,0
+211805,Polino,Italy,42.57,12.82,0
+211806,Cupaello,Italy,42.43,12.93,650
+211807,Oricola-Carsoli,Italy,42.15,13.08,0
+211808,Vico-Cimino Complex,Italy,42.367,12.188,1053
+211809,Sabatini Complex,Italy,42.17,12.22,612
+211810,"Ernici, Monti",Italy,41.58,13.33,0
+211811,Roccamonfina,Italy,41.3,13.93,1066
+211812,"Vulture, Monte",Italy,40.92,15.67,1330
+211813,Ventotene,Italy,40.8,13.42,139
+211814,Pontine Islands,Italy,40.9,12.95,283
+211815,Logudoro,Italy,40.58,8.67,0
+211816,Salina,Italy,38.58,14.85,962
+211817,Filicudi,Italy,38.58,14.55,773
+211818,Alicudi,Italy,38.55,14.33,675
+211819,Ustica,Italy,38.72,13.18,248
+211820,Iblei,Italy,37.117,14.821,825
+211821,Linosa,Italy,35.87,12.87,195
+211822,Gaeta Bay Volcanic Field,Italy,40.978,13.663,0
+212800,Sporades,Greece,39.5,24.18,0
+212801,Volos-Atalanti,Greece,39.033,22.8,900
+212802,Aegina,Greece,37.75,23.5,530
+212803,Poros,Greece,37.48,23.43,80
+212804,Antiparos,Greece,36.995,25.046,282
+212805,Kos,Greece,36.852,27.251,430
+213021,Suphan Dagi,Turkey,38.931,42.833,4033
+213022,Girekol,Turkey,39.104,43.426,2145
+213023,Etrusk,Turkey,39.032,43.66,3100
+213060,Karasu Rift,Turkey,36.767,36.6,486
+213061,Ceyhan-Osmaniye,Turkey,37,36.083,424
+213801,Gölcük,Turkey,37.72,30.492,0
+213802,Kargapazari Dagi,Turkey,40.005,41.675,2089
+213803,Arpacay,Turkey,41,43.467,0
+213804,Kisir Dagi,Turkey,40.97,43.07,3192
+214040,Keli Highland,Georgia,42.45,44.25,3750
+214802,Akhuryan Valley,Armenia,41.067,43.75,2251
+214803,Shamiram Plateau,Armenia,40.2,44.15,3300
+214804,Unnamed,Armenia,40.058,45.608,3047
+214805,Unnamed,Armenia,39.617,46.1,2400
+214808,Dzau,Georgia,42.404,44.004,1904
+221109,Mabda,Eritrea,13.508,41.779,1554
+221121,Borawli,Ethiopia,11.63,41.45,875
+221293,Hobitcha Caldera,Ethiopia,6.8,37.87,1800
+221300,Chericha,Ethiopia,6.712,38.085,1636
+221310,Tosa Sucha,Ethiopia,5.967,37.629,1650
+221800,Oyma,Ethiopia,12.88,41.62,1041
+221801,Didolli,Ethiopia,12.7,41.58,1191
+221802,Katahelu,Ethiopia,12.551,41.503,1126
+221803,Ali Mela,Ethiopia,12.718,41.396,1037
+221804,Dawa Ale-Quarry,Ethiopia,12.75,41,0
+221805,Badi,Ethiopia,12.387,40.366,1321
+221806,Gad Elu,Ethiopia,12.408,41.06,1548
+221807,Ela,Ethiopia,12.519,41.19,934
+221808,Asgura,Ethiopia,11.75,40.9,0
+221809,Finini,Ethiopia,11.98,41.35,0
+221810,Dalaha'ale,Ethiopia,12.274,42.044,881
+221811,Data Gabalti,Ethiopia,12.197,42.135,583
+221812,Egersuwa,Ethiopia,12.45,42.166,582
+221816,Zikwala,Ethiopia,8.53,38.85,2989
+221817,Ch'Ilalo,Ethiopia,7.92,39.27,4005
+221818,Gademota Caldera,Ethiopia,7.88,38.6,2090
+221819,Duguna,Ethiopia,6.95,38.07,2205
+221822,Chew Bahir,Ethiopia,4.47,36.87,600
+221824,Undurer,Ethiopia,12.171,41.396,1242
+221825,Babba'Olou,Djibouti,11.55,42.133,1301
+222150,Kilimanjaro,Tanzania,-3.07,37.35,5881
+222162,Usangu Scarp Basalt,Tanzania,-8.624,33.583,1690
+222163,SW Usangu Basin,Tanzania,-8.75,33.8,2179
+222165,Izumbwe-Mpoli,Tanzania,-8.976,33.38,1568
+222800,Kulal,Kenya,2.75,36.93,2285
+222801,Asie,Kenya,2.964,37.104,1056
+222802,Huri,Kenya,3.5,37.75,1300
+222803,Bogoria,Kenya,0.25,36.08,1100
+222804,Kilombe Caldera,Kenya,-0.08,35.83,2550
+222805,"Nyokie, Ol Doinyo",Kenya,-1.8,36.38,1169
+222806,Gelai,Tanzania,-2.6,36.1,2942
+222807,Ketumbeine,Tanzania,-2.88,36.22,2942
+222808,Kerimasi,Tanzania,-2.87,35.95,2600
+222809,Loolmalasin,Tanzania,-3.052,35.817,3627
+222810,Sadiman,Tanzania,-3.18,35.42,2865
+222811,Ngorongoro,Tanzania,-3.17,35.57,2376
+222812,Sultan Hamud-Simba,Kenya,-2.12,37.4,0
+222813,Burko,Tanzania,-3.3,36.22,2136
+222814,Kwaraha,Tanzania,-4.23,35.82,2415
+222828,Porr,Kenya,2.9,36.55,0
+222829,Embagai,Tanzania,-2.92,35.83,3220
+222830,Olmoti,Tanzania,-3,35.65,3099
+222831,Hanang,Tanzania,-4.43,35.4,3418
+223800,Mikeno,DR Congo,-1.463,29.419,4387
+223801,Sabinyo,Uganda-Rwanda,-1.388,29.592,3605
+224001,Sao Tome,Sao Tome and Principe,0.2,6.58,2024
+224012,Kumba Volcanic Field,Cameroon,4.608,9.292,600
+224020,Manengouba,Cameroon,5.03,9.83,2411
+224040,Ngaoundere Plateau,Cameroon,7.25,13.67,1230
+224050,Biu Plateau,Nigeria,10.75,12.088,930
+224060,Jos Plateau,Nigeria,9.5,9,1177
+225007,Haruj,Libya,27.25,17.5,1200
+225008,Waw an Namous,Libya,24.906,17.772,470
+225800,Tin Taralle Volcanic Field,Niger,18.27,9.33,0
+225801,Cap-Vert,Senegal,14.77,-17.4,0
+225802,Oulmes Volcanic Field,Morocco,33.33,-6,0
+225803,Rekkame Volcanic Field,Morocco,33.17,-3.33,1500
+225804,Nemours-Nedroma,Algeria,35.07,-2,444
+225805,Tafna Beni Saf,Algeria,35.28,-1.45,480
+225806,Gharyan Volcanic Field,Libya,32,13.25,850
+225812,In Teria Volcanic Field,Algeria,26.814,9.638,0
+225813,Azrou Volcanic Field,Morocco,33.67,-5.17,1785
+225814,Oujda Volcanic Field,Morocco,34.53,-3.3,700
+225815,Mrit-Ment Volcanic Field,Morocco,33.47,-2.97,700
+225816,Berguent Volcanic Field,Morocco,33.75,-2.4,1200
+225817,Chott Tigri Volcanic Field,Morocco,32.92,-1.85,1388
+225818,"Chi, Tarso Emi",Chad,21.22,18.52,2650
+225819,"Ahon, Tarso",Chad,20.539,18.29,3325
+230800,Unnamed,Syria,37.13,41.85,693
+230801,Unnamed,Syria,35.63,40.33,404
+230802,Unnamed,Syria,35.82,39.47,473
+230803,Unnamed,Syria,34.02,38.68,775
+230804,Unnamed,Syria,33.75,38.68,781
+231073,"Baqarah, Jabal",Saudi Arabia,18.024,42.092,331
+231806,"Hutaymah, Harrat",Saudi Arabia,26.98,42.4,0
+231807,"Haylah, Jibal al",Saudi Arabia,18.515,42.051,761
+232020,Qal'eh Hasan Ali,Iran,29.375,57.55,2400
+232060,Dacht-i-Navar Group,Afghanistan,33.95,67.92,3800
+232070,Vakak Group,Afghanistan,34.25,67.97,3190
+232800,Bijar Volcanic Field,Iran,35.583,47.8,0
+232801,Sultan,Pakistan,29.1,62.8,2333
+232803,Kuh-e Ayyub Ansar,Iran,36.321,47.25,2506
+232806,Gandom Beryan,Iran,31.343,57.517,500
+232807,Dehaj-Meduk,Iran,30.33,55.5,0
+232808,Shahsavaran,Iran,28.152,59.281,0
+232809,Zardolou Group,Afghanistan,33.25,67.92,3000
+232810,Loman Volcano Group,Afghanistan,33.33,67.85,4559
+232812,East Neh,Iran,31.333,60.126,0
+233800,Moheli Island,Comoros,-12.3,43.72,790
+233801,Anjouan Island,Comoros,-12.2,44.45,1595
+233802,"Nieges, Piton des",France,-21.08,55.48,3070
+233803,Mauritius,Mauritius,-20.32,57.65,826
+233804,Rodriguez Island,Mauritius,-19.7,63.42,396
+241129,Rumble II East,New Zealand,-35.418,178.652,-1150
+241132,Rumble I,New Zealand,-35.5,178.875,-1100
+241133,Thompson,New Zealand,-35.285,178.863,-1250
+241134,Silent II West,New Zealand,-35.169,178.902,-780
+241135,Silent II East,New Zealand,-35.21,178.978,-1250
+241141,Yokosuka,New Zealand,-34.709,178.545,-1060
+241142,Rapuhia,New Zealand,-34.776,178.505,-650
+241143,Giljanes,New Zealand,-34.775,178.579,-700
+241151,Kibblewhite,New Zealand,-34.576,179.262,-1000
+241200,Sonne,New Zealand,-34.077,179.576,-995
+241201,Ngatoroirangi,New Zealand,-33.729,179.827,-340
+241202,Cole,New Zealand,-33.411,179.953,-2400
+241203,Kuiwai,New Zealand,-33.159,-179.957,-560
+241204,Haungaroa,New Zealand,-32.617,-179.624,-660
+241205,Oliver-Speight,New Zealand,-32.388,-179.591,-1840
+241800,Hautere,New Zealand,-46.55,166.9,330
+241802,South Auckland,New Zealand,-37.37,174.92,314
+241803,Mokohinau Islands,New Zealand,-35.9,175.12,134
+241804,Little Barrier,New Zealand,-36.2,175.12,722
+241805,Mercury Islands,New Zealand,-36.62,175.82,230
+241806,Alderman Islands,New Zealand,-36.97,176.08,0
+241807,South Coromandel Peninsula,New Zealand,-37.25,175.78,795
+241808,Kaimai,New Zealand,-37.8,176.22,564
+241809,Karioi,New Zealand,-37.87,174.8,756
+241810,Pirongia,New Zealand,-38,175.1,959
+241811,Kakepuku,New Zealand,-38.07,175.25,450
+241812,Kaitake,New Zealand,-39.17,173.97,684
+241813,Pouakai,New Zealand,-39.23,174.02,1399
+241814,Solander Island,New Zealand,-46.55,166.87,300
+241815,Moutohora Island,New Zealand,-37.858,176.98,354
+241816,Rotorua,New Zealand,-38.08,176.27,757
+241817,Kapenga,New Zealand,-38.27,176.27,840
+241818,Mangakino,New Zealand,-38.35,175.75,1165
+241819,Northern Tongariro Group,New Zealand,-38.98,175.7,1327
+241821,Rungapapa Knoll,New Zealand,-37.547,176.98,0
+242031,Hinetapeka,Undersea Features,-28.831,-177.826,-140
+242032,Volcano OP,Undersea Features,-28.218,-177.692,-875
+242040,Putoto,Undersea Features,-27.857,-177.621,-260
+242041,Volcano Q,Undersea Features,-27.468,-177.506,-1200
+242042,Gamble,Undersea Features,-27.2,-177.41,-900
+242043,Rakahore,Undersea Features,-26.81,-177.4,-640
+242044,Hinepuia,Undersea Features,-26.39,-177.26,-850
+243015,Ata Volcanic Complex,Tonga,-22.337,-176.21,274
+243055,Feinga Seamount,Tonga,-20.154,-175.163,-393
+243065,Unnamed,Tonga,-19.438,-174.952,-331
+243095,Toku,Tonga,-18.163,-174.181,21
+244800,Rose Island,United States,-14.545,-168.156,3
+245800,Nairai,Fiji,-17.8,179.42,335
+245801,Waikama,Fiji,-18.02,179.3,760
+245802,Mago,Fiji,-17.45,-179.15,0
+245803,Katafaga,Fiji,-17.52,-178.72,0
+245804,Kabara,Fiji,-18.95,-178.95,0
+251800,Vokeo,Papua New Guinea,-3.2,144.1,609
+251801,Viai,Papua New Guinea,-3.39,144.404,58
+251802,Bagabag,Papua New Guinea,-4.78,146.23,692
+251803,Crown Island,Papua New Guinea,-5.117,146.952,298
+251804,Tolokiwa,Papua New Guinea,-5.32,147.58,1372
+252800,Tangi,Papua New Guinea,-5.67,148.4,1524
+252801,Narage,Papua New Guinea,-4.547,149.113,307
+252802,Bangum,Papua New Guinea,-5.345,149.94,988
+252803,Oto Group,Papua New Guinea,-5.558,150.407,1277
+252804,Likuruanga,Papua New Guinea,-4.953,151.385,904
+252811,Unea,Papua New Guinea,-4.888,149.143,579
+252812,Lotomgan Group,Papua New Guinea,-5.22,150.07,555
+253000,Doma Peaks,Papua New Guinea,-5.9,143.15,3568
+253001,Crater Mountain,Papua New Guinea,-6.581,145.091,2950
+253002,Yelia,Papua New Guinea,-7.05,145.858,3384
+253800,Kerewa,Papua New Guinea,-6.02,143.15,3700
+253801,Sisa,Papua New Guinea,-6.13,142.73,2650
+253802,Bosavi,Papua New Guinea,-6.58,142.82,2397
+253803,Darai Hills,Papua New Guinea,-6.8,143.08,500
+253804,Biwau Hills,Papua New Guinea,-7.32,143.28,400
+253805,Sugarloaf,Papua New Guinea,-5.78,143.75,3900
+253806,Hagen,Papua New Guinea,-5.77,144.03,3765
+253807,Giluwe,Papua New Guinea,-6.05,143.88,4368
+253808,Ialibu,Papua New Guinea,-6.23,144.03,3465
+253809,Murray,Papua New Guinea,-6.75,144.02,2254
+253810,Suaru,Papua New Guinea,-6.25,144.83,2667
+253811,Karimui,Papua New Guinea,-6.57,144.77,2561
+253812,Duau,Papua New Guinea,-6.92,144.58,1850
+253813,Favenc,Papua New Guinea,-6.97,144.68,1583
+253814,Aird Hills,Papua New Guinea,-7.45,144.35,328
+253815,Trafalgar,Papua New Guinea,-9.17,149.17,1726
+254800,Tabar,Papua New Guinea,-2.97,152.043,607
+254801,Tanga,Papua New Guinea,-3.5,153.22,472
+255800,Emperor Range,Papua New Guinea,-5.7,154.95,2040
+255801,Numa Numa,Papua New Guinea,-6.02,155.192,1567
+255802,Bakanovi,Papua New Guinea,-6.15,155.35,600
+255803,Nonda,Solomon Islands,-7.67,156.6,760
+255804,Maetambe,Solomon Islands,-7.08,157.03,960
+255805,Kolombangara,Solomon Islands,-7.97,157.08,1760
+255806,Rendova,Solomon Islands,-8.47,157.33,1050
+255807,Mbareke,Solomon Islands,-8.55,158.07,500
+255808,Vangunu,Solomon Islands,-8.67,158,1040
+255809,Nggatokae,Solomon Islands,-8.78,158.18,840
+257800,Ureparapara,Vanuatu,-13.53,167.32,764
+257801,Mota,Vanuatu,-13.85,167.68,411
+257802,Merig,Vanuatu,-14.32,167.8,125
+257803,Paama Island,Vanuatu,-16.47,168.23,544
+257804,Fatmalapa,Vanuatu,-17.57,168.37,500
+257805,William,Vanuatu,-18.7,169.08,886
+257806,Emae,Vanuatu,-17.063,168.381,629
+257807,Pumpan,Vanuatu,-18.85,169.12,802
+257808,Melkum,Vanuatu,-18.85,169.05,758
+257809,East Tanna Volcano,Vanuatu,-19.42,169.45,552
+257810,Unnamed,Vanuatu,-17.292,168.575,-551
+259800,Maer Volcanic Province,Australia,-9.717,143.833,171
+259801,Piebald Volcanic Province,Australia,-15.23,145.03,420
+259802,Mclean Volcanic Province,Australia,-15.87,144.83,610
+259803,Atherton Volcanic Province,Australia,-17.3,145.72,1160
+259804,McBride Volcanic Province,Australia,-18.33,144.55,1020
+259805,Fox,Australia,-18.85,145.8,840
+259806,Chudleigh Volcanic Province,Australia,-19.73,144.2,1000
+259807,Nulla Volcanic Province,Australia,-19.82,145.08,840
+259808,Sturgeon Volcanic Province,Australia,-20.35,144.25,0
+259809,Bundaberg-Boyne Province,Australia,-25.58,151.87,330
+261101,Imun,Indonesia,2.156,98.934,1503
+261171,Kunyit,Indonesia,-2.274,101.483,2151
+261201,"Lumut, Bukit",Indonesia,-3.224,102.205,1738
+261202,"Tiga, Bukit",Indonesia,-3.308,102.256,1629
+261250,Besar,Indonesia,-4.437,103.671,1900
+261285,Pesawaran-Ratai,Indonesia,-5.505,105.093,1575
+261800,Pulau Weh,Indonesia,5.82,95.28,617
+261801,Olim,Indonesia,5.2,96.18,0
+261802,Teu Minas,Indonesia,5.17,96.43,0
+261803,Geureugoh,Indonesia,5.15,96.67,0
+261805,"Tudeuk, Gunung",Indonesia,5,96.57,0
+261806,Nama Salah,Indonesia,4.65,96.78,0
+261807,"Telago, Gunung",Indonesia,4.47,96.82,1930
+261808,"Sembuang, Gunung",Indonesia,4.62,97.42,0
+261809,Geureudong,Indonesia,4.813,96.82,2885
+261810,Kembar,Indonesia,3.85,97.664,2245
+261811,Bekulap,Indonesia,3.288,98.351,1782
+261812,Takur-Takur,Indonesia,3.222,98.627,1499
+261813,"Tenaroh, Bukit",Indonesia,3.12,98.63,0
+261814,Simbolon,Indonesia,3.02,98.9,1509
+261816,Martimbang,Indonesia,1.96,98.968,1669
+261817,Maninjau,Indonesia,-0.35,100.2,1724
+261818,"Telor, Bukit",Indonesia,-1.245,103.523,38
+261819,Masurai,Indonesia,-2.503,101.858,2916
+261820,Raja,Indonesia,-4.83,104.08,1643
+261821,Pesagi,Indonesia,-4.92,104.15,2232
+261822,Sukadana Basalts,Indonesia,-5.25,105.65,300
+261823,"Simacak, Uruk",Indonesia,3.237,98.433,1908
+261824,Barus,Indonesia,3.204,98.564,1969
+261858,Seulawah Inong,Indonesia,5.43,95.77,730
+261859,Melintang,Indonesia,-0.32,100.67,2262
+261861,Tujuh,Indonesia,-1.7,101.42,2732
+261862,Runcing,Indonesia,-1.755,101.627,1789
+261863,Isau-Isau,Indonesia,-3.967,103.643,1422
+261864,"Nanti, Bukit",Indonesia,-4.2,103.85,1619
+261865,Tanggamus,Indonesia,-5.427,104.675,2079
+263080,Wayang-Windu,Indonesia,-7.213,107.637,2184
+263081,Malabar,Indonesia,-7.132,107.639,2307
+263160,"Putri, Gunung",Indonesia,-7.136,108.076,1538
+263292,Malang Plain,Indonesia,-8.067,112.733,662
+263321,Lurus,Indonesia,-7.739,113.58,507
+263800,Endut,Indonesia,-6.62,106.37,1297
+263801,Halimun,Indonesia,-6.72,106.45,1929
+263802,Halimun,Indonesia,-6.846,106.563,1741
+263803,Kancana,Indonesia,-6.897,107.041,1213
+263804,Tilu,Indonesia,-7.156,107.529,2042
+263805,"Kamojang, Kawah",Indonesia,-7.125,107.8,1730
+263806,Cakrabuana,Indonesia,-7.03,108.13,1721
+263807,Lasem,Indonesia,-6.68,111.52,806
+263808,Ringgit,Indonesia,-7.72,113.85,1250
+263810,Gede,Indonesia,-5.93,106.07,595
+263811,Cibugis,Indonesia,-6.5,106.57,613
+263812,Kendeng,Indonesia,-6.768,106.526,1732
+263813,Sanggabuana,Indonesia,-6.58,107.22,1291
+263814,Kancana,Indonesia,-7.32,107.63,2182
+263815,Mandalagiri,Indonesia,-7.4,107.78,1831
+263816,Cikuray,Indonesia,-7.322,107.86,2784
+263817,Mandalawangi-Haruman,Indonesia,-7.05,107.87,1663
+263818,Canlancang,Indonesia,-6.97,107.95,1667
+263819,Sedakeling,Indonesia,-7.12,108.03,1676
+263820,Sawal,Indonesia,-7.18,108.27,1764
+263821,Selokaki,Indonesia,-7.83,112.35,1083
+263822,Argowayang,Indonesia,-7.77,112.43,2198
+264070,Poco Leok,Indonesia,-8.68,120.48,1675
+264800,Ilikedeka,Indonesia,-8.301,122.907,823
+264830,Merbuk,Indonesia,-8.226,114.653,1359
+264831,Patas,Indonesia,-8.261,114.817,1390
+264833,Seraja,Indonesia,-8.377,115.654,1142
+264834,Punikan,Indonesia,-8.47,116.13,1490
+264836,"Lambuwu, Doro",Indonesia,-8.362,118.497,1602
+264837,"Maria, Doro",Indonesia,-8.483,118.924,1423
+264838,"Saboke, Doro",Indonesia,-8.68,119.12,1000
+264839,Gilibanta,Indonesia,-8.42,119.32,363
+264840,"Otota, Doro",Indonesia,-8.72,119.42,518
+264841,"Ora, Doro",Indonesia,-8.75,119.67,668
+264842,"Beliling, Gunung",Indonesia,-8.62,119.97,1153
+264843,Sangenges,Indonesia,-8.58,117.122,1824
+264845,Tarowa,Indonesia,-8.704,118.161,755
+266807,Lompobatang,Indonesia,-5.35,119.92,2871
+267060,Lipang,Indonesia,3.911,125.39,126
+267065,Napo Taroare,Indonesia,4.048,125.345,0
+267070,Kawalusu,Indonesia,4.232,125.329,239
+267075,North Kawio,Indonesia,4.684,125.468,109
+267090,Kawio Barat,Indonesia,4.675,125.088,-1874
+268800,Hamiding,Indonesia,1.62,127.82,1204
+269010,Tawau Hills,Malaysia,4.383,117.95,1077
+269810,Usun Apau Plateau,Malaysia,2.75,114.67,0
+269811,Linau-Balui Plateau,Malaysia,2.35,114.1,0
+269812,"Kajang Plateau, Bukit",Malaysia,2.33,113.67,0
+269813,Nuit,Malaysia,1.02,109.93,1701
+269814,Mostyn,Malaysia,4.6,118.18,0
+270010,Jolo,Philippines,6,121.125,811
+271072,Balatukan,Philippines,8.77,124.98,2450
+271090,Paco-Maniayao,Philippines,9.593,125.52,664
+271800,Blit,Philippines,6.958,124.23,1198
+271801,Quezon,Philippines,6.58,124.62,652
+271802,Kitabud,Philippines,7.285,124.662,1167
+271803,Imbing,Philippines,7.68,123.23,700
+271804,Kaladis,Philippines,7.58,122.97,0
+271805,Ampiro,Philippines,8.388,123.63,1532
+272800,Nelangaapan,Philippines,9.932,125.27,687
+272801,Ilihan,Philippines,10.483,125.122,903
+272802,Alto,Philippines,11.108,124.75,1350
+272803,Cancajanag,Philippines,11.07,124.78,900
+272804,Maripipi,Philippines,11.8,124.33,924
+272805,Hingatungan,Philippines,10.594,125.101,796
+272806,Lobi,Philippines,11.013,124.812,1302
+272807,Pacdahauan,Philippines,11.404,124.509,628
+273085,Amorong Group,Philippines,15.825,120.742,369
+273086,Santo Tomas,Philippines,16.33,120.55,2260
+273800,Gate Mountains,Philippines,12.6,123.997,559
+273801,Malinao,Philippines,13.416,123.608,1548
+273802,Sangay,Philippines,13.52,123.53,0
+273803,Cone-Culasi,Philippines,13.92,123.02,959
+273804,Labo,Philippines,14.02,122.792,1544
+273805,Dagit-Dagitan,Philippines,13.53,121.078,364
+273806,Panay,Philippines,13.723,120.893,501
+273807,Malepunyo,Philippines,14.95,121.23,963
+273808,Anilao Hill,Philippines,13.9,121.18,358
+273809,Cariliao,Philippines,14.13,120.75,656
+273810,Corregidor,Philippines,14.4,120.58,173
+274800,Matarem,Philippines,20.38,121.93,459
+275010,Leizhou Bandao,China,20.78,110.17,259
+275090,Lower Chindwin,Burma (Myanmar),22.28,95.1,385
+275800,Weizhoudao,China,21.05,109.13,0
+275801,Unnamed,Vietnam,19.45,105.53,0
+275802,Unnamed,Vietnam,19.32,105.53,0
+275803,Vinkh-Linkh,Vietnam,17.08,107.05,0
+275804,Ban Chay,Cambodia-Vietnam,14,107.5,0
+275805,Pleiku-Bantour Volcanic Field,Vietnam,13.85,108.1,1028
+275806,Darlac Volcanic Field,Vietnam,12.88,108.2,0
+275807,Bas Song Be,Vietnam,11.67,106.67,0
+275808,Pailin,Cambodia,12.9,102.6,0
+275809,Cham,Cambodia,12.1,105.6,0
+275810,Chup,Cambodia,11.9,105.82,0
+275811,Snoul,Cambodia,12.1,106.4,0
+275812,Haut Song Be,Cambodia,12.05,107.25,0
+275813,Bolaven Plateau,Laos,15.142,106.45,1350
+275814,Buriram,Thailand,15,103,0
+275815,Chanthaburi,Thailand,12.5,102.2,0
+275816,Lampang,Thailand,18.3,99.6,0
+275817,Ban Chiang Khian,Thailand,19.8,100,0
+275818,Ban Hui Sai,Thailand,20.3,100.3,0
+275819,Kuantan Basalt,Malaysia,3.886,103.365,10
+275820,Medaw Island,Burma (Myanmar),11.72,98.67,115
+275821,Thaton,Burma (Myanmar),17.42,96.95,30
+275823,Namyong,Burma (Myanmar),25.68,96.43,508
+275834,Gaojianshi,China,17,112.5,0
+275835,Bokeo Volcanic Field,Cambodia,13.5,107.2,500
+281801,Tsaolingshan,Taiwan,24.83,121.28,347
+281802,Chilung Group,Taiwan,25.08,121.85,729
+281803,Huapinghsu,Taiwan,25.424,121.946,51
+281804,Mienhuayu,Taiwan,25.484,122.106,29
+281805,Pengchiahsu,Taiwan,25.63,122.08,120
+282041,Kogajajima,Japan,29.879,129.625,301
+282800,Kobi-sho,Japan,25.919,123.682,117
+282801,Gajajima,Japan,29.904,129.541,452
+282802,Kuroshima,Japan,30.825,129.94,622
+282804,Sendai,Japan,31.731,130.451,677
+282805,Satsuma Maru-yama,Japan,31.799,130.411,218
+282806,Imuta,Japan,31.819,130.463,509
+282807,Hokusatsu,Japan,31.872,130.608,703
+282808,Kakuto,Japan,32.042,130.767,0
+282809,Sone,Japan,33.053,129.083,143
+282810,Ojikajima,Japan,33.199,129.051,95
+282811,Taradake,Japan,32.984,130.079,1076
+282812,Kinpo,Japan,32.811,130.641,665
+282813,Yabakei,Japan,33.169,131.221,800
+282814,Hane-yama,Japan,33.228,131.133,1140
+282815,Hohi,Japan,33.284,131.319,1236
+282816,Futago,Japan,33.58,131.604,720
+282817,Hime-shima Volcanic Group,Japan,33.718,131.669,267
+282818,Kurose,Japan,33.695,130.233,8
+282819,Iki Volcanic Group,Japan,33.738,129.712,213
+282820,Tokara Hirase,Japan,30.036,130.058,27
+283800,Mutsure-jima,Japan,33.974,130.866,104
+283801,Shikuma,Japan,34.098,131.761,504
+283802,Tokuyama-Mitake,Japan,34.189,131.844,790
+283803,Sengoku,Japan,34.186,131.76,661
+283804,Chojagahara,Japan,34.271,131.669,390
+283805,Aonoyama,Japan,34.459,131.798,908
+283806,Oetaka-yama,Japan,35.061,132.431,808
+283807,Yokote,Japan,35.201,133.267,967
+283808,Noro,Japan,35.41,133.182,180
+283809,Daikon-jima,Japan,35.493,133.174,42
+283810,Tsuruta,Japan,35.338,133.422,301
+283811,Daisen,Japan,35.368,133.549,1729
+283812,Ogino-Sen,Japan,35.437,134.444,1310
+283813,Takara,Japan,35.343,134.922,350
+283814,Nanzaki,Japan,34.604,138.832,106
+283815,Jaishi,Japan,34.71,138.786,520
+283816,Tanaba,Japan,34.907,138.852,1035
+283817,Daruma,Japan,34.952,138.843,982
+283818,Tenshi,Japan,34.924,138.968,608
+283819,Usami,Japan,34.968,139.063,592
+283820,Taga,Japan,35.078,139.031,798
+283821,Yugawara,Japan,35.173,139.029,1004
+283822,Ashitaka,Japan,35.238,138.794,1504
+283823,Kurofuji,Japan,35.8,138.513,1764
+283824,Yatsugatake,Japan,35.968,138.373,2899
+283825,Kirigamine,Japan,36.1,138.2,1925
+283826,Utsukushigahara,Japan,36.223,138.111,2034
+283827,Ueno,Japan,35.59,137.505,606
+283828,Yuga-mine,Japan,35.802,137.284,1067
+283829,Eboshi-Washigatake,Japan,35.937,136.974,1672
+283830,Bishamon-dake,Japan,35.936,136.795,1386
+283831,Dainichiga-take,Japan,35.998,136.841,1709
+283832,Ryohaku Maru-yama,Japan,36.046,136.8,1786
+283833,Gankyoji,Japan,36.054,136.743,1691
+283834,Kyoga-take,Japan,36.043,136.625,1671
+283835,Dainichi-yama,Japan,36.15,136.5,1369
+283836,Tomuro,Japan,36.528,136.75,548
+283837,Kamitakara,Japan,36.2,137.502,1831
+283838,Hodakadake,Japan,36.286,137.651,3190
+283839,Momisawa-dake,Japan,36.364,137.611,2755
+283840,Kaminoroka,Japan,36.471,137.599,2465
+283841,Shirouma-Oike,Japan,36.786,137.802,2469
+283842,Madarao,Japan,36.834,138.278,1382
+283843,Kurohime,Japan,36.81,138.13,2053
+283844,Iizuna,Japan,36.736,138.137,1917
+283845,Motodori,Japan,36.717,138.247,745
+283846,Minakami,Japan,36.551,138.226,659
+283847,Eboshi,Japan,36.43,138.39,2227
+283848,Hanamagari,Japan,36.408,138.649,1757
+283849,Azumayasan,Japan,36.541,138.412,2323
+283850,Omeshi-dake,Japan,36.626,138.461,2160
+283851,Takayashiro,Japan,36.796,138.407,1351
+283852,Sekita,Japan,36.974,138.386,1289
+283853,Kenashi,Japan,36.895,138.489,1650
+283854,Torikabuto,Japan,36.836,138.587,2038
+283855,Naeba,Japan,36.843,138.694,2145
+283856,Iiji,Japan,36.953,138.836,1112
+283857,Masugata,Japan,37.075,138.833,749
+283858,Komochi-Onoko,Japan,36.589,139.001,1296
+283859,Sukai-Kesemaru,Japan,36.687,139.34,2144
+283860,Numanokami,Japan,36.772,139.279,1541
+283861,Hotaka,Japan,36.802,139.136,2158
+283862,Ayame-daira,Japan,36.895,139.243,1969
+283863,Kinunuma-Nenakusa,Japan,36.88,139.375,2141
+283864,Nyoho-Akanagi,Japan,36.808,139.54,2483
+283865,Futamata,Japan,37.243,139.97,1544
+283866,Aizu Nunobiki,Japan,37.321,140.018,1108
+283867,Asakusa,Japan,37.341,139.237,1585
+283868,Sumon,Japan,37.395,139.14,1537
+283869,Sunagohara,Japan,37.454,139.688,729
+283870,Nekoma,Japan,37.617,140.011,1404
+283871,Aoso,Japan,38.082,140.611,820
+283872,Shirataka,Japan,38.22,140.176,994
+283873,Ganto-Kamuro,Japan,38.196,140.48,1485
+283874,Adachi,Japan,38.218,140.654,0
+283875,Daito,Japan,38.299,140.527,1366
+283876,Funagata,Japan,38.453,140.623,1500
+283877,Gassan,Japan,38.546,140.03,1984
+283878,Mukaimachi,Japan,38.75,140.52,657
+283879,Onikobe,Japan,38.83,140.695,769
+283880,Takamatsu,Japan,38.965,140.61,1348
+283881,Kobinai,Japan,39.018,140.523,1004
+283882,Yakeishi,Japan,39.161,140.832,1548
+283883,Tazawa,Japan,39.718,140.665,249
+283884,Kayo,Japan,39.804,140.734,1254
+283885,Nyuto-Takakura,Japan,39.802,140.842,1478
+283886,Tamagawa,Japan,39.897,140.781,1300
+283887,Moriyoshi,Japan,39.974,140.547,1454
+283888,Kanpu,Japan,39.931,139.879,355
+283889,Nanashigure,Japan,40.066,141.109,1063
+283890,Tashiro,Japan,40.426,140.412,1178
+283891,Okiura,Japan,40.57,140.73,985
+283892,Mutsu-Hiuchi-dake,Japan,41.436,141.056,781
+283896,Kannabe,Japan,35.504,134.678,460
+283897,Daira-Komaga-take,Japan,40.41,140.255,1158
+283898,Dorobu,Japan,36.898,139.579,1322
+284043,Mikura Seamount,Japan,33.725,139.408,-321
+284086,Nichiyo Seamount,Japan,29.482,140.327,-1042
+284087,Getsuyo Seamount,Japan,29.306,140.471,-1095
+284088,Kayo Seamount,Japan,29.064,140.537,-814
+284089,Kinyo Seamount,Japan,28.084,140.802,-838
+284144,Kasuga 3,United States,21.399,143.626,-1325
+284145,Eifuku,United States,21.409,144.161,-551
+284800,Udonejima,Japan,34.469,139.297,209
+284801,Onoharajima,Japan,34.045,139.387,114
+284802,Inamba-jima,Japan,33.648,139.302,74
+284803,Tracey Seamount,United States,13.65,144.42,-900
+285062,Shikaribetsu Group,Japan,43.267,143.1,1401
+285800,Oshima Maru-yama,Japan,41.54,140.375,855
+285801,Hakodate-yama,Japan,41.757,140.708,333
+285802,Zenikame,Japan,41.737,140.855,-30
+285803,E-san Maru-yama,Japan,41.849,141.097,691
+285804,Yokotsu,Japan,41.935,140.775,1167
+285805,Nigorikawa,Japan,42.12,140.45,356
+285806,Okushiri-Katsuma-yama,Japan,42.193,139.468,428
+285807,Kariba,Japan,42.611,139.944,1520
+285808,Washibetsu,Japan,42.433,141.007,911
+285809,Raiden,Japan,42.901,140.473,1212
+285810,Akaigawa,Japan,43.08,140.82,725
+285811,Shiribetsu,Japan,42.767,140.916,1107
+285812,Orofure-Raiba,Japan,42.563,141.091,1231
+285813,Horohoro-Tokushumbetsu,Japan,42.631,141.146,1322
+285814,Soranuma,Japan,42.863,141.257,1251
+285815,Sapporo,Japan,42.898,141.204,1294
+285816,Tomuraushi Volcanic Group,Japan,43.525,142.852,2141
+285817,Chubetsu,Japan,43.589,142.898,1963
+285818,Niseikaushuppe,Japan,43.777,142.989,1883
+285819,Tengu-Hirayama,Japan,43.776,143.016,1796
+285820,Shiitokoro,Japan,43.61,143.184,1336
+285821,Kumaneshiri,Japan,43.52,143.237,1635
+285822,Tokachi-Mitsumata,Japan,43.52,143.15,700
+285823,Tokachi-Eboshi,Japan,43.376,143.133,1291
+285824,Birao,Japan,43.498,144.408,554
+285825,Samakkenupuri,Japan,43.681,144.736,1063
+285826,Musa,Japan,43.676,144.886,1006
+285827,Shari,Japan,43.763,144.722,1545
+285828,Unabetsu,Japan,43.874,144.881,1419
+285829,Onnebetsu,Japan,43.991,145.017,1331
+285830,Shiretoko,Japan,44.23,145.278,1254
+285839,Oshima-Ko-jima,Japan,41.355,139.811,282
+290800,Urbich Caldera,Japan - administered by Russia,44.584,147.174,907
+290801,Vetrovoi Isthmus Caldera,Japan - administered by Russia,45.22,148.35,264
+290802,Tsirk,Japan - administered by Russia,45.4,148.58,853
+290803,Petr Shmidt Ridge,Russia,45.95,150.05,1031
+290804,Antipin,Russia,46.15,150.23,1120
+290805,Gora Desantnaya,Russia,46.192,150.369,847
+290806,Brontona Island,Russia,46.721,150.733,0
+290807,Ikanmikot,Russia,46.964,152.07,614
+290808,Kuntomintar,Russia,48.75,154.02,828
+290809,Shestakov,Russia,49.75,154.75,0
+290810,Avos' Rocks,Russia,49.72,154.12,35
+290811,Makanru Island,Russia,49.785,154.429,1136
+300232,Unnamed,Russia,55.92,161.75,0
+300800,Vysokii,Russia,51.116,156.892,708
+300801,Tumanniy,Russia,51.191,156.939,681
+300802,Ded i Baba,Russia,51.3,156.58,1032
+300803,Tretya Rechka,Russia,51.4,156.57,754
+300804,Koshegochek,Russia,51.616,156.809,1142
+300805,Sredniy Koshegochek,Russia,51.663,156.928,1050
+300806,Unnamed,Russia,51.753,157.063,1038
+300807,Leviy Koshegochek,Russia,51.787,156.929,997
+300808,Kuzheten,Russia,51.82,157.22,925
+300809,Vostochnaya Khodutka,Russia,51.93,157.73,0
+300810,Zheltiy,Russia,51.93,157.6,792
+300811,Kuzanek,Russia,51.93,157.18,968
+300812,Unnamed,Russia,51.95,157.02,740
+300813,Igolki,Russia,52.02,156.88,707
+300814,Skalistiy,Russia,52.02,157.18,1005
+300815,Perevalny,Russia,52.13,157.78,0
+300816,Krugliy,Russia,52.16,157.64,1052
+300817,Savan,Russia,52.21,157.28,901
+300818,Malaya Ipelka,Russia,52.28,156.73,0
+300819,Kamen,Russia,52.287,157.655,850
+300820,Ploskiy,Russia,52.37,157.62,877
+300821,Udochka,Russia,52.5,157.2,891
+300822,Bolshaya Ipelka,Russia,52.63,156.97,1194
+300823,Tolmachev,Russia,52.55,157.73,1118
+300828,Shemodogan,Russia,52.918,157.72,1446
+300829,Khalzan-Shapochka,Russia,53.12,157.6,0
+300830,Aak,Russia,53.38,158.67,2319
+300831,Kupol,Russia,53.5,158.65,0
+300832,Kitkhoysky,Russia,53.584,158.56,1350
+300833,Vershinsky,Russia,53.6,158.7,1812
+300834,Skalistiy,Russia,53.72,159.22,0
+300835,Pik,Russia,53.8,158.87,0
+300836,Vodorazdelny,Russia,53.8,158.8,0
+300837,Kurgannaya,Russia,54.02,158.57,0
+300838,Kavychinsky,Russia,54.13,158.45,0
+300839,Baraniy,Russia,54.25,158.48,0
+300840,Zhupanovskiye Vostriyaky,Russia,53.8,159.28,1684
+300841,Ditmara,Russia,53.87,159.53,1389
+300842,Krainy,Russia,53.95,159.33,1199
+300843,Razlaty,Russia,54.02,159.38,0
+300844,Pribrezhny,Russia,54.07,159.77,0
+300845,Unnamed,Russia,54.37,159.43,0
+300846,Unana,Russia,54.63,159.72,2131
+300847,Adamozhets,Russia,54.75,159.4,0
+300848,Bogachensky,Russia,55.13,160.9,0
+300849,Piip,Russia,55.319,160.667,2059
+300850,Konechnaya,Russia,55.23,160.97,0
+300851,Konradi,Russia,55.08,160.53,1912
+300852,Sokol,Russia,55.2,160.52,1711
+300853,Tumrok,Russia,55.37,160.87,2197
+300854,Uspensky,Russia,55.53,160.78,1893
+300855,Shish,Russia,55.75,161.18,2399
+300856,Iult,Russia,55.23,160.587,1857
+300857,Nikolka,Russia,55.33,159.95,1591
+300859,Zarechny,Russia,56.38,160.83,760
+300860,Kharchinsky,Russia,56.425,160.825,1410
+300861,Unnamed,Russia,56.53,160.87,200
+300862,Unnamed,Russia,56.667,161.708,1356
+300863,Lyzyk,Russia,57.23,161.52,0
+300864,Uchkoren,Russia,57.27,161.35,0
+300865,Nachikinsky,Russia,57.83,162.68,1211
+300866,Khailyulya,Russia,58.03,161.62,0
+300867,Lauchachan,Russia,55.35,157.1,1018
+300868,Prodolny,Russia,55.45,157.25,1505
+300869,Kobalan,Russia,55.43,157.37,1174
+300870,Tynua,Russia,55.85,157.87,1727
+300871,Etopan,Russia,55.97,157.63,1264
+300872,Kimitina,Russia,55.25,158.18,1438
+300873,Unnamed,Russia,55.52,158.43,2140
+300874,Ochchamo,Russia,55.62,158.15,2136
+300875,Bolshoy Kozyrevsky,Russia,55.6,158.52,1672
+300876,Bolshaya Romanovka,Russia,55.73,158.77,1821
+300877,Unnamed,Russia,55.88,158.83,1821
+300878,Bongabti,Russia,55.83,158.32,1790
+300879,Nosichan,Russia,56.08,157.75,1105
+300880,Buduli,Russia,56.4,158.7,1477
+300881,Kopkan,Russia,56.48,158.83,1120
+300882,Yanpat,Russia,56.53,158.8,1205
+300883,Chavycha,Russia,56.55,158.65,1190
+300884,Malaya Ketepana,Russia,56.68,158.47,1230
+300885,Bolshoy Ketepana,Russia,57.05,158.37,1521
+300886,Unnamed,Russia,56.97,158.75,0
+300887,Ovalny,Russia,56.98,158.98,732
+300888,Tigilsky,Russia,56.812,159.111,1362
+300889,Perevalovyi,Russia,56.57,159.35,1328
+300890,Maly Alney,Russia,56.47,159.77,1858
+300891,Maly Chekchebonay,Russia,56.8,159.45,1247
+300892,Bolshoy Chekchebonay,Russia,56.92,159.42,1391
+300893,Kireunsky,Russia,56.78,159.75,1925
+300894,Dvukhyurtochny,Russia,56.82,159.88,1631
+300895,Unnamed,Russia,56.93,159.95,0
+300896,Kalgauch,Russia,56.93,159.73,1206
+300897,Kunkhilok,Russia,57.321,160.48,1151
+300898,Shlen,Russia,57.48,159.57,1001
+300899,Pirozhnikova,Russia,57.47,160.25,1665
+300900,Kamenisty,Russia,57.65,160.43,1762
+300901,Tekletunup,Russia,57.75,160.23,1395
+300902,Ulvaney,Russia,57.78,160.62,1445
+300903,Mutny,Russia,57.72,160.37,1345
+300904,Khuvkhoitun,Russia,57.92,160.65,2618
+300905,Keveney,Russia,58.05,160.73,1887
+300906,Langtutkin,Russia,58.23,161.1,1545
+300908,Kikhiikhylkhangei,Russia,59.25,162.5,0
+300909,Unnamed,Russia,55.73,157.22,0
+301801,Anjuisky,Russia,67.154,165.82,1560
+301805,Balagan-Tas,Russia,65.959,145.893,993
+302800,Dgida Basin,Russia,50.52,103.25,1500
+302804,Khamar-Daban,Russia,51.4,102.5,2369
+302805,Khulugayshi,Russia,52,102.5,0
+302806,Unnamed,Russia,51.25,96.5,1300
+303800,Unnamed,Mongolia,51.33,99.33,1922
+303801,Orkhon Gol,Mongolia,48.65,103.5,0
+303803,Tabun Urtu-Ula,Mongolia,44.85,107.63,1167
+303804,Khutza-Ula,Mongolia,42.58,107.5,1162
+303805,Unnamed,Mongolia,42.33,105.98,1217
+303806,Unnamed,Mongolia,43.4,104.02,1752
+303807,Unnamed,Mongolia,44.25,103.53,1527
+303808,Durbulzhi-Ula,Mongolia,42.8,102.08,1445
+303809,Ubur-Khangay,Mongolia,44.38,101.98,1640
+303810,Khubsugal Region,Mongolia,51,101,0
+303811,Ika-Togo-Ula,Mongolia,47.896,103.054,1600
+304040,Unnamed,China,35.85,91.7,5400
+304803,Unnamed,China,35.47,82.92,6900
+305801,Jianghui Group,China,31.95,118.95,0
+305802,Nushan,China,33.12,118.75,0
+305803,Datong-Fengzen,China,40,113.28,1882
+305806,Dalainuoer,China,44,115.5,0
+305809,Erkeshan,China,48.056,126.261,416
+305831,Unnamed,China,23.3,116.15,0
+305832,Longhai,China,24.5,117.5,0
+305833,Yichuan,China,34,113,0
+305834,Tangy'n,China,35.25,114.5,0
+305835,Huixian,China,36,115.25,0
+305840,Heibei Plain,China,38,117.5,0
+305841,Unnamed,China,37,114.5,0
+305842,Taihangshanlu,China,38,113.75,0
+305843,Unnamed,China,38.75,115,0
+305844,Unnamed,China,39.25,113.52,0
+305845,Chifeng,China,42.25,118.5,0
+305847,Nuomin,China,49.617,123.717,906
+305849,Jianshan,China,48.891,125.615,399
+305852,Dunhua,China,43.163,127.939,826
+305853,Yitong Group,China,43.33,125.25,389
+305854,Fanjiatung Group,China,43.75,125.17,283
+305855,Kuandian,China,40.75,124.67,513
+306800,Kilchu-Myongch'on,North Korea,41,129.7,0
+306801,Koksan-Singye,North Korea,38.67,127.42,680
+311150,Sergief,United States,52.05,-174.95,560
+311800,Adagdak,United States,51.988,-176.592,610
+311801,Table Top,United States,53.967,-166.679,792
+311802,Wide Bay,United States,53.961,-166.615,640
+311803,Gilbert,United States,54.25,-165.65,818
+312801,Trader Mountain,United States,55.565,-161.944,775
+312802,Stepovak Bay 1,United States,55.868,-160.096,1320
+312803,Blue Mountain,United States,57.72,-157.83,541
+312804,Gertrude Creek,United States,58.034,-156.146,437
+312805,Devils Desk,United States,58.474,-154.306,1955
+312806,Savonovski River Cluster,United States,58.55,-154.5,1298
+313800,Double Glacier,United States,60.68,-152.62,1239
+314020,Nunivak Island,United States,60.02,-166.33,511
+314050,Kookooligit Mountains,United States,63.6,-170.43,673
+314800,St. George,United States,56.58,-169.58,288
+314801,Otter Island,United States,57.05,-170.4,87
+314802,Walrus Island,United States,57.18,-169.93,0
+314803,Togiak Valley,United States,59.2,-160.08,300
+314804,Ingrichuak Hills,United States,62.22,-164.3,188
+314805,Selawik Hills,United States,66.033,-160.067,365
+314806,Espenberg,United States,66.35,-164.33,243
+315010,Sanford,United States,62.213,-144.13,4959
+315021,Gordon,United States,62.13,-143.08,2755
+315800,Prindle,United States,63.716,-141.634,1245
+315801,Capital,United States,62.43,-144.12,2356
+315802,Jumbo Dome,United States,63.966,-148.685,1369
+315803,Drum,United States,62.12,-144.63,3661
+315804,Tanada,United States,62.3,-143.52,2816
+315805,Jarvis,United States,62.024,-143.619,4112
+315808,Basalt Knob,United States,58.03,-136.33,100
+315809,Skookum Creek,United States,62.4,-143.147,2172
+320130,Satah Mountain,Canada,52.417,-124.617,1923
+320135,Baldface Mountain,Canada,52.742,-124.458,1798
+320804,Kawdy Metah,Canada,59.02,-131.15,1950
+320805,Dark Mountain,Canada,58.52,-129.6,1972
+320806,Klastline Group,Canada,57.88,-130.2,1980
+320807,Hogum Range,Canada,56.15,-126.7,2020
+320808,Alice Arm,Canada,55.43,-129.37,0
+320809,Itcha Range,Canada,52.667,-124.833,2371
+320810,Chilcotin Group-North,Canada,51.45,-122.33,1800
+320812,Squamish,Canada,49.65,-123.22,790
+320813,Chilcotin Group-South,Canada,50.15,-119.62,2100
+320817,Quesnel Cone Group,Canada,52.5,-121.17,1646
+321800,Tumac Mountain,United States,46.713,-121.352,1932
+321801,Goat Rocks,United States,46.5,-121.4,2494
+321802,Marble Mountain,United States,46.109,-122.129,1255
+321803,Simcoe,United States,46.1,-120.9,1775
+322130,Lava Mountain,United States,43.472,-120.754,1711
+322140,Four Craters Lava Field,United States,43.361,-120.669,1501
+322800,Boring Lava,United States,45.3,-122.5,1236
+322801,Defiance,United States,45.649,-121.723,1512
+322802,Lost Lake Butte,United States,45.496,-121.796,1362
+322803,Wilson,United States,45.066,-121.658,1707
+322804,Olallie Butte,United States,44.82,-121.75,2199
+322805,Three Fingered Jack,United States,44.48,-121.842,2390
+322806,Black Butte,United States,44.4,-121.63,1962
+322807,Washington,United States,44.332,-121.837,2376
+322808,Black Crater,United States,44.266,-121.749,2210
+322809,Scott Mountain,United States,44.241,-121.915,1864
+322810,Tumalo,United States,44.099,-121.541,1955
+322811,Broken Top,United States,44.08,-121.7,2797
+322812,Williamson Mountain,United States,43.924,-121.825,1921
+322813,Irish Mountain,United States,43.851,-121.975,2101
+322814,Taylor Butte,United States,43.805,-122.018,1775
+322815,Cultus Mountain,United States,43.819,-121.871,2060
+322816,Wuksi Butte-Twin Lakes,United States,43.77,-121.77,1590
+322817,Cupit Mary Mountain,United States,43.731,-122.11,1879
+322818,Fuji Mountain,United States,43.659,-122.103,2177
+322819,Maiden Peak,United States,43.627,-121.965,2383
+322820,Red Top Mountain,United States,43.51,-122.03,2118
+322821,Cowhorn Mountain,United States,43.4,-122.054,2336
+322822,Cappy Mountain,United States,43.31,-121.979,2253
+322823,China Hat-East Butte,United States,43.681,-121.034,2004
+322824,Quartz Mountain,United States,43.629,-120.899,1885
+322825,Fort Rock Volcanic Field,United States,43.392,-121.142,1712
+322826,Diamond Peak,United States,43.521,-122.148,2665
+322827,Thielsen,United States,43.153,-122.065,2799
+322828,Bailey,United States,43.155,-122.219,2551
+322829,Goose Nest,United States,42.788,-122.154,2213
+322830,Big Bunchgrass,United States,42.703,-122.194,2024
+322831,Imagination Peak,United States,42.552,-122.201,1986
+322832,Sprague River Valley,United States,42.5,-121.5,1300
+322833,Pelican Butte,United States,42.52,-122.13,2449
+322834,McLoughlin,United States,42.445,-122.315,2894
+322835,Brown Mountain,United States,42.365,-122.27,2228
+322836,Silver Creek,United States,43.4,-119.5,1375
+322837,Saddle Butte,United States,43,-117.8,1700
+322838,Lava Butte,United States,43.001,-117.422,1447
+322841,Mountain Lakes,United States,42.32,-122.08,2502
+322842,Jackies Butte,United States,42.606,-117.589,1418
+323030,Brushy Butte,United States,41.178,-121.445,1168
+323040,Twin Buttes,United States,40.777,-121.591,1631
+323050,Silver Lake,United States,40.731,-121.841,1535
+323060,Tumble Buttes,United States,40.68,-121.55,2191
+323090,Eagle Lake Field,United States,40.63,-120.83,1652
+323180,Coso Volcanic Field,United States,36.03,-117.82,2400
+323190,Lavic Lake,United States,34.75,-116.625,1495
+323800,Copco Lake,United States,41.97,-122.33,975
+323801,Goosenest,United States,41.722,-122.22,2528
+323802,Whaleback,United States,41.528,-122.14,2605
+323803,Rainbow Mountain,United States,41.474,-121.956,2323
+323804,Hackamore,United States,41.67,-121.17,1703
+323805,Big Cave,United States,40.955,-121.365,1259
+323806,Cinder Butte,United States,40.87,-121.49,1337
+323807,Burney Mountain,United States,40.806,-121.628,2397
+323808,Snow Mountain,United States,40.763,-121.798,2077
+323809,Magee Peak,United States,40.698,-121.619,2647
+323810,Blacks Mountain,United States,40.775,-121.191,2220
+323811,Potato Butte,United States,40.63,-121.43,1532
+323812,Latour Butte,United States,40.608,-121.709,2054
+323813,Caribou,United States,40.6,-121.15,2309
+323814,Red Lake Mountain,United States,40.571,-121.594,2036
+323815,Table Mountain,United States,40.557,-121.55,2097
+323816,Black Butte,United States,40.45,-122,813
+323817,Dittmar,United States,40.453,-121.347,2328
+323818,Sifford Mountain,United States,40.416,-121.412,2149
+323819,Maidu,United States,40.3,-121.62,2123
+323820,Inskip Hill,United States,40.341,-121.943,945
+323821,Sutter Buttes,United States,39.206,-121.821,645
+323822,Long Valley,United States,37.7,-118.87,3390
+323823,Big Pine Volcanic Field,United States,37.05,-118.25,1950
+323824,Lava Mountains Volcanic Field,United States,35.5,-117.5,1510
+323825,Cima Lava Field,United States,35.27,-115.75,1509
+323826,Amboy,United States,34.55,-115.78,288
+323827,Pinto Basin-Salton Creek,United States,33.9,-115.63,600
+324800,Sinker Butte,United States,43.25,-116.62,1012
+324801,Mountain Home-Kuna Lava Field,United States,43.2,-115.98,1040
+324802,"Grande, Cerro",United States,43.45,-112.83,0
+324803,Blackfoot Lava Field,United States,42.85,-111.75,2185
+324804,Menan Buttes,United States,43.78,-111.97,1713
+325802,Leucite Hills,United States,41.8,-108.9,0
+326800,Buffalo Valley,United States,40.35,-117.3,1750
+326801,Steamboat Springs,United States,39.375,-119.72,1415
+326802,Aurora-Bodie,United States,38.32,-118.88,2365
+326803,Lunar Crater,United States,38.48,-115.97,2255
+326804,Clayton Valley,United States,37.82,-117.62,1490
+326805,Crater Flat,United States,36.77,-116.55,1128
+326810,Sheldon-Antelope,United States,41.8,-119.1,0
+327010,Santa Clara,United States,37.257,-113.625,1465
+327030,Bald Knoll,United States,37.328,-112.408,2135
+327800,Kolob,United States,37.33,-113.12,2727
+327801,Mineral Mountains-Cove Fort,United States,38.58,-112.67,2770
+327802,Smelter Knolls,United States,39.434,-112.857,1555
+327803,Fumarole Butte,United States,39.616,-112.803,1609
+327810,Potrillo Volcanic Field,United States,31.98,-107.13,1695
+327811,Jornada del Muerto,United States,33.53,-106.87,1555
+327813,Lucero,United States,34.42,-107.2,2395
+327814,Taylor Volcanic Field,United States,35.33,-107.45,3460
+327815,Cat Hills,United States,34.83,-106.83,1750
+327816,Albuquerque,United States,35.12,-106.75,1800
+327817,Valles Caldera,United States,35.908,-106.517,3441
+327818,Taos Plateau,United States,36.83,-105.83,3087
+327819,Ocate,United States,36.12,-104.75,3000
+327820,Raton-Clayton,United States,36.42,-104.08,3350
+328800,McCoy,United States,39.97,-106.7,2402
+328801,Willow Peak,United States,39.662,-107.17,3061
+329801,Sentinel Plain,United States,32.8,-113.2,160
+329802,Springerville Volcanic Field,United States,34.192,-109.629,3091
+329803,San Carlos,United States,33.25,-110.25,1000
+329804,Geronimo,United States,32.5,-109.25,1300
+331025,Vance Segment,Undersea Features,45.3,-130.1,-1985
+331033,Central Segment,Undersea Features,41.78,-127.109,-3300
+331034,Phoenix Segment,Undersea Features,41.404,-127.38,-3000
+332080,Kaena,United States,21.822,-158.772,-1200
+332800,Kohala,United States,20.08,-155.72,1668
+332801,Kahoolawe,United States,20.57,-156.57,450
+332802,Mahukona,United States,20.17,-156.42,-1080
+332803,West Maui,United States,20.88,-156.6,1764
+332804,Lanai,United States,20.82,-156.85,1021
+332805,East Molokai,United States,21.12,-156.87,1506
+332806,West Molokai,United States,21.15,-157.17,418
+332807,Koolau,United States,21.37,-157.8,941
+332808,Waianae,United States,21.52,-158.15,1220
+332809,Kauai,United States,22.07,-159.5,1668
+332810,Niihau,United States,21.95,-160.08,390
+332811,Kaula,United States,21.67,-160.55,194
+333800,Hiva Oa,France,-9.78,-139.03,1067
+333801,Fatu Hiva,France,-10.47,-138.65,955
+333802,Moorea,France,-17.552,-149.823,1138
+333803,Tahiti-Nui,France,-17.696,-149.523,1631
+333804,Tahiti-Iti,France,-17.798,-149.237,1169
+333805,Aitutaki,New Zealand,-18.9,-159.77,124
+333806,Rarotonga,New Zealand,-21.23,-159.75,639
+333807,Rurutu,France,-22.45,-151.35,394
+333808,Pitcairn,United Kingdom,-25.068,-130.113,313
+335010,Antipodes Island,New Zealand,-49.684,178.781,359
+335040,Unnamed,Undersea Features,-50.457,-139.154,-594
+341010,Tres Virgenes,Mexico,27.47,-112.591,1934
+341800,"Leon, Cerro",Mexico,30.227,-114.655,280
+341801,San Ignacio Volcanic Field,Mexico,27.633,-113.05,1500
+341802,"Aguajito, El",Mexico,27.554,-112.552,1274
+341803,"Reforma, La",Mexico,27.508,-112.392,1300
+341804,"Pulpito, Punta",Mexico,26.517,-111.444,131
+341805,"Mencenares, Cerro",Mexico,26.28,-111.47,790
+341806,Moctezuma Volcanic Field,Mexico,29.63,-109.52,0
+341807,Camargo Volcanic Field,Mexico,27.75,-104.42,1900
+341808,Santo Domingo Volcanic Field,Mexico,22.83,-100.08,1550
+341809,Ventura Volcanic Field,Mexico,22.35,-100.7,2035
+341810,San Juan,Mexico,21.47,-104.97,2240
+341811,"Navajas, Las",Mexico,21.531,-104.729,1680
+341812,Santa Maria del Oro,Mexico,21.371,-104.571,1120
+341813,Tepetiltic,Mexico,21.27,-104.7,2020
+341814,San Pedro,Mexico,21.17,-104.73,2000
+341815,San Sebastian Volcanic Field,Mexico,20.83,-104.82,1780
+341816,"Volcanes, Los",Mexico,20.33,-104.5,2080
+341817,Northern Atenguillo,Mexico,20.75,-104.5,1700
+341818,Tequila,Mexico,20.788,-103.847,2920
+341819,Northern Guadalajara Mesa,Mexico,20.88,-103.4,1820
+341820,"Primavera, Sierra la",Mexico,20.62,-103.52,2270
+341821,Southern Guadalajara,Mexico,20.525,-103.242,2160
+341822,Acatlan Volcanic Field,Mexico,20.45,-103.57,1990
+341823,"Cantaro, Volcan el",Mexico,19.72,-103.63,2920
+341824,"Azufres, Los",Mexico,19.85,-100.63,3400
+341825,Tláloc,Mexico,19.411,-98.713,4120
+341826,Telapón,Mexico,19.37,-98.72,4080
+341827,Acoculco,Mexico,19.97,-98.2,3020
+341828,"Grande, Cerro",Mexico,19.62,-97.93,3050
+341829,Poza Rica,Mexico,20.42,-97.83,2250
+341830,San Martin Pajapan,Mexico,18.303,-94.73,1250
+341831,Apas-Navenchauc,Mexico,16.716,-92.786,0
+341832,Huitepec,Mexico,16.743,-92.694,2744
+341833,Mispia,Mexico,16.447,-92.539,1750
+341836,Aldama Volcanic Field,Mexico,23.2,-98.02,600
+341837,"Flores, Los",Mexico,22.58,-99.38,520
+341838,Apan-Tezontepec,Mexico,19.75,-98.5,3100
+342800,Santo Tomas,Guatemala,14.71,-91.479,3542
+342801,Cuxliquel,Guatemala,14.889,-91.398,3029
+342802,Barahona,Guatemala,14.55,-90.78,2282
+342803,Pueblo Nuevo Viñas,Guatemala,14.199,-90.505,1939
+342804,Piedra Grande,Guatemala,14.25,-90.4,1640
+342805,Ixhuatan,Guatemala,14.161,-90.286,1675
+342806,Ayarza,Guatemala,14.42,-90.12,1409
+342807,"Alutate, Cerro",Guatemala,14.647,-90.144,2116
+342808,Guistepeque Volcanic Field,Guatemala,14.57,-89.78,1358
+342809,Siete Orejas,Guatemala,14.82,-91.62,3370
+342810,San Pedro,Guatemala,14.656,-91.267,3020
+342811,Jumay Volcanic Field,Guatemala,14.694,-89.993,2174
+342812,"Ananopa, Cerro",Guatemala,14.9,-89.93,386
+342813,"Redondo, Cerro",Guatemala,14.27,-89.62,768
+343110,Conchagua,El Salvador,13.275,-87.845,1225
+343120,Conchaguita,El Salvador,13.229,-87.767,505
+343800,Masahuat Volcanic Field,El Salvador,14.2,-89.4,1005
+343801,"Tablas, Cerro las",El Salvador,14.07,-89.4,782
+343802,"Limones Volcanic Field, Los",El Salvador,14.05,-89.13,420
+343803,"Cacahuatique, Cerro",El Salvador,13.75,-88.2,1500
+343804,"Buena Vista, Cerro",El Salvador,13.25,-88.15,750
+343805,"Yayantique, Cerro",El Salvador,13.435,-87.999,613
+343806,Unnamed,El Salvador,13.67,-87.82,377
+343807,"Zacatillo, Isla",El Salvador,13.295,-87.761,158
+343815,"Lolotique, Cerro",El Salvador,13.559,-88.364,804
+343816,"Meanguera, Isla",El Salvador,13.19,-87.72,468
+343817,"Izopo, Montaña de",Honduras,13.92,-87.15,2020
+343818,"Hule, Cerro de",Honduras,13.95,-87.23,1725
+343819,"Gavilantepeque, Cerro",Honduras,14,-87.18,1280
+343820,"Pedregal, El",Honduras,14.1,-87.27,1593
+343821,"Calanterique, Cerro",Honduras,14.6,-87.87,0
+344130,Maderas,Nicaragua,11.446,-85.515,1394
+344140,"Azul, Volcan",Nicaragua,12.549,-83.968,203
+344801,Malpaisillo,Nicaragua,12.58,-86.6,181
+344802,Apoyo,Nicaragua,11.92,-86.03,600
+344803,"San Jacinto, Cerro",Nicaragua,12.37,-86.02,300
+344805,Tambor Grande,Nicaragua,10.97,-84.08,648
+345800,"Chopo, Cerro",Costa Rica,10.472,-85.07,402
+345801,"Tilaran, Cerro",Costa Rica,10.451,-84.978,634
+345802,"Perdidos, Los",Costa Rica,10.403,-84.675,1357
+345803,"Poco Sol, Laguna",Costa Rica,10.35,-84.67,789
+345804,"San Miguel, Cerro",Costa Rica,10.022,-84.708,414
+345805,"Mercedes, Cerro las",Costa Rica,10.97,-84.35,190
+345806,"Negro, Cerro",Costa Rica,10.462,-83.855,136
+345807,"Colorado, Lomas de",Costa Rica,10.658,-83.721,229
+345808,Tortuguero,Costa Rica,10.586,-83.53,119
+345809,"Sierpe, Lomas de",Costa Rica,10.376,-83.545,311
+345810,Durika,Costa Rica,9.374,-83.302,3257
+345811,"Coco, Isla del",Costa Rica,5.53,-87.082,575
+346800,Tisingal,Panama,8.88,-82.67,2986
+346801,"Yeguada, La",Panama,8.47,-80.82,1297
+351001,San Diego,Colombia,5.65,-74.961,1163
+351002,"Escondido, El",Colombia,5.514,-75.043,1620
+351800,Santa Rosa,Colombia,4.8,-75.458,4584
+351801,"Quindio, Nevado del",Colombia,4.701,-75.386,4756
+351807,Unnamed,Colombia,2.2,-76.03,2500
+351808,San Augustín-Isnos,Colombia,1.92,-76.23,1900
+351809,Cutanga,Colombia,1.83,-76.45,4300
+351810,Animas,Colombia,1.568,-76.857,4180
+352800,Yanaurcu de Pinan,Ecuador,0.484,-78.329,4535
+352801,Pilavo,Ecuador,0.526,-78.365,4254
+352802,Cotacachi,Ecuador,0.364,-78.351,4939
+352803,Cusin,Ecuador,0.127,-78.154,3989
+352804,Chalpatan,Ecuador,0.711,-77.784,3624
+352805,Chiltazon,Ecuador,0.687,-78.021,3967
+352806,Iguan,Ecuador,0.621,-78.007,3870
+352807,Pambamarca,Ecuador,-0.076,-78.207,4076
+352808,Casitagua,Ecuador,-0.036,-78.48,3501
+352809,"Puntas, Cerro",Ecuador,-0.174,-78.2,4348
+352810,Ilalo,Ecuador,-0.259,-78.418,3185
+352811,Pasochoa,Ecuador,-0.462,-78.478,4199
+352812,Pan de Azucar,Ecuador,-0.43,-77.72,3482
+352813,Sincholagua,Ecuador,-0.534,-78.371,4893
+352814,Ruminahui,Ecuador,-0.578,-78.504,4712
+352815,Corazon,Ecuador,-0.528,-78.658,4786
+352816,Santa Cruz,Ecuador,-0.648,-78.631,3945
+352817,Putzalagua,Ecuador,-0.962,-78.56,3512
+352818,Sagoatoa,Ecuador,-1.151,-78.666,4153
+352819,Llimpi,Ecuador,-1.381,-78.572,3732
+352820,Puyo,Ecuador,-1.459,-77.917,1072
+352821,Carihuairazo,Ecuador,-1.404,-78.75,5102
+352822,Igualata,Ecuador,-1.49,-78.639,4430
+352823,Calpi,Ecuador,-1.634,-78.728,3215
+352824,Altar,Ecuador,-1.67,-78.42,5321
+352826,Chalupas,Ecuador,-0.804,-78.3,4812
+353800,Culpepper,Ecuador,1.62,-92,168
+353801,Wenman,Ecuador,1.37,-91.8,253
+353802,Rabida,Ecuador,-0.413,-90.708,338
+353803,Pinzon,Ecuador,-0.6,-90.68,458
+353804,Santa Fe,Ecuador,-0.806,-90.07,200
+353805,Floreana,Ecuador,-1.3,-90.45,640
+353807,Roca Redonda,Ecuador,0.27,-91.63,67
+354801,Huambutillo-Rumicola,Peru,-13.58,-71.72,0
+354802,"Firura, Nevados",Peru,-15.23,-72.63,5498
+354803,Solimana,Peru,-15.4,-72.9,6093
+354804,"Purupuruni, Cerros",Peru,-17.32,-69.9,5315
+355060,Ollague,Chile-Bolivia,-21.3,-68.18,5868
+355065,Inacalari,Chile-Bolivia,-21.981,-68.071,5618
+355140,Copiapo,Chile,-27.3,-69.13,6052
+355805,Lexone,Chile,-17.87,-69.48,5340
+355806,"Anallajsi, Nevado",Bolivia,-17.92,-68.92,5750
+355807,"Pucara, Cerro",Bolivia,-16.236,-69.471,4080
+355808,Patilla Pata,Bolivia,-18.05,-69.03,5300
+355809,"Sajama, Nevado del",Bolivia,-18.1,-68.88,6542
+355810,"Larancagua, Volcan",Chile,-18.02,-69.08,5580
+355811,Caquena,Chile,-18.07,-69.22,0
+355812,Vilacollo,Chile,-18.241,-69.307,4688
+355813,Acotango,Chile-Bolivia,-18.37,-69.05,6052
+355814,Arintica,Chile,-18.75,-69.05,5597
+355815,Rochaculla-Inca Camacha,Bolivia,-18.8,-68.3,5300
+355817,"Tatajachura, Cerro",Chile,-19.5,-69.12,5240
+355818,"Cariquima, Cerro",Chile,-19.55,-68.68,5365
+355819,Porquesa,Chile,-19.958,-68.73,5190
+355820,"Napa, Cerro",Chile,-20.52,-68.68,5145
+355822,Copa-Ocana,Chile,-20.643,-68.439,5299
+355823,Aucanquilcha,Chile,-21.22,-68.47,6176
+355824,"San Agustin, Cerro",Bolivia,-21.25,-67.75,4980
+355825,Cañapa,Chile,-21.5,-68.12,5630
+355826,"Ascotan, Cerro",Chile,-21.68,-68.12,5473
+355827,Escala,Bolivia,-21.6,-66.88,4000
+355828,"Moiro, Cerro",Bolivia,-21.68,-67.47,4250
+355829,"Chascon, Cerro",Bolivia,-21.88,-67.9,5125
+355830,Apagado,Chile,-22.05,-67.97,5680
+355831,Paniri,Chile,-22.059,-68.228,5946
+355832,"Leon, Cerro del",Chile,-22.142,-68.108,5754
+355833,Deslinde,Chile,-22.27,-67.97,5651
+355834,"Linzor, Volcan",Chile-Bolivia,-22.18,-67.95,5680
+355835,Jorcada,Bolivia,-22.08,-67.77,5750
+355836,Quetena,Bolivia,-22.25,-67.42,5730
+355837,Sunequera,Bolivia,-21.98,-67.23,5899
+355838,Uturuncu,Bolivia,-22.27,-67.18,6008
+355840,"Tatio, Volcan",Chile,-22.42,-68.02,5314
+355841,"Volcan, El",Chile,-22.33,-67.97,5100
+355842,"Tocorpuri, Cerros de",Chile-Bolivia,-22.439,-67.888,5808
+355843,"Zapaleri, Cerro",Chile,-22.82,-67.18,5643
+355844,Poquis,Chile,-23.02,-67.05,5770
+355845,Curutu,Chile,-23.17,-67.07,5394
+355846,Losloyo,Chile,-23.13,-67.37,5343
+355847,Potor,Chile,-23.2,-67.67,5318
+355848,Hecar,Chile,-23.23,-67.75,5029
+355849,"Verde, Laguna",Chile,-23.252,-67.71,5464
+355850,"Rio Negro, Cerro de",Chile,-23.398,-67.582,5067
+355851,Tumisa,Chile,-23.45,-67.82,5671
+355852,Lejia,Chile,-23.55,-67.77,5790
+355853,Miscanti,Chile,-23.67,-67.72,5613
+355854,Laco,Chile,-23.8,-67.5,5472
+355855,Incaguasi,Chile,-24.03,-67.53,5689
+355856,Capur,Chile,-24.02,-67.85,5216
+355857,Aguas Delgadas,Chile,-24.45,-68.4,0
+355858,"Niebla, Cerro de la",Chile,-25.25,-68.63,4500
+355859,"Azufre, El",Chile,-25.37,-68.88,5480
+355860,Piedra Parada,Chile,-26.4,-68.75,5920
+355861,San Francisco,Chile,-26.9,-68.27,6018
+355862,Tres Cruces,Chile,-27.08,-68.8,6620
+355863,"Patos, Los",Chile,-27.27,-69,6250
+355864,"Queva, Nevado",Argentina,-24.309,-66.732,6134
+355865,Tocomar,Argentina,-24.2,-66.5,4950
+355866,Gemelos-Saladillo,Argentina,-24.75,-66.17,0
+355867,Antofalla,Argentina,-25.55,-67.92,6409
+355868,"Galan, Cerro",Argentina,-25.93,-66.92,6000
+355869,"Colorado, Cerro",Argentina,-26.18,-68.37,6049
+355870,Incapillo,Argentina,-27.9,-68.8,5750
+356010,San Felix,Chile,-26.294,-80.112,159
+356020,Robinson Crusoe,Chile,-33.658,-78.85,922
+356040,Seamount JF6,Chile,-33.427,-76.87,-642
+356800,Sala y Gomez,Chile,-26.47,-105.47,15
+356801,Alexander Selkirk,Chile,-33.763,-80.811,1266
+357071,Cochiquito Volcanic Group,Argentina,-36.739,-69.834,1435
+357800,Tupungato,Chile-Argentina,-33.359,-69.77,6570
+357801,"Piuquenes, Nevado de los",Chile-Argentina,-33.52,-69.83,6019
+357802,Northern Mendoza Volcanic Field,Argentina,-34.67,-69,0
+357803,Llancanelo Volcanic Field,Argentina,-35.75,-69.25,1876
+357804,Puelche Volcanic Field,Chile,-35.78,-70.48,3140
+357805,Sordo Lucas,Chile,-34.987,-70.456,3349
+357806,"Nevado, Cerro",Argentina,-35.58,-68.489,3791
+357807,Auca Mahuida Volcanic Field,Argentina,-37.738,-68.924,2243
+357808,"Nevada, Sierra",Chile,-38.58,-71.58,2554
+357809,Pino Hachado,Argentina,-38.679,-70.814,2017
+357810,"Trautrén, Cerro",Chile-Argentina,-39.17,-71.4,1846
+357811,"Caburgua, Nevados de",Chile,-39.17,-70.53,1862
+357812,"Maichín, Cerro",Chile,-39.35,-71.55,0
+357813,Quinchilca,Chile,-39.68,-72.008,1632
+358021,Cuernos del Diablo,Chile,-41.363,-72.005,1846
+358058,Rio Murta,Chile,-46.17,-72.708,681
+360800,"Vigie, Morne la",Haiti,18.78,-72.28,831
+360801,Thomazeau,Haiti,18.68,-72.08,0
+360802,San Juan,Dominican Republic,18.87,-71.33,0
+360803,Dos Hermanos,Dominican Republic,18.75,-70.92,0
+360804,Valle Nuevo,Dominican Republic,18.83,-70.67,0
+360805,South East Range,Saint Kitts and Nevis,17.33,-62.77,900
+360806,Northern Centres,Netherlands,17.508,-62.992,0
+360807,Silver Hills,United Kingdom,16.81,-62.194,403
+360808,Centre Hills,United Kingdom,16.759,-62.196,741
+360809,Septentrional Chain,France,16.23,-61.72,744
+360810,Axial Chain,France,16.12,-61.7,1354
+360811,Bouillante Chain,France,16.12,-61.75,420
+360812,"Caraïbes, Monts",France,15.97,-61.68,687
+360813,Terre de Bas,France,15.87,-61.63,274
+360814,Foundland,Dominica,15.27,-61.28,960
+360815,"Carbets, Pitons de",France,14.7,-61.12,1196
+360816,Unnamed,France,14.65,-61.08,0
+360817,"Garu, Morne",Saint Vincent and the Grenadines,13.292,-61.2,1074
+360818,Grand Bonhomme,Saint Vincent and the Grenadines,13.22,-61.208,1021
+371800,Fagradalsfjall,Iceland,63.9,-22.27,385
+371801,Grensdalur,Iceland,64.02,-21.17,497
+371802,Lyngdalsheidi,Iceland,64.15,-20.9,404
+371803,Geysir,Iceland,64.32,-20.3,700
+371804,Hlodufell,Iceland,64.93,-20.53,1188
+371805,Thorisjokull,Iceland,64.53,-20.7,1350
+371806,Ok,Iceland,64.62,-20.88,1141
+371807,Eríksjokull,Iceland,64.77,-20.4,1675
+371808,Hrutfell,Iceland,64.73,-19.72,1396
+371809,Blafell,Iceland,64.492,-19.87,1204
+371810,Hreppar,Iceland,64.42,-19.5,0
+372800,Strutur,Iceland,63.839,-18.932,956
+373800,Tungnaarfjoll,Iceland,64.164,-18.496,983
+373801,Kistufell,Iceland,64.781,-17.21,1436
+373802,Valdalda,Iceland,64.97,-16.48,941
+373803,Herdubreid,Iceland,65.18,-16.35,1682
+373804,Sellandafjall,Iceland,65.42,-17.03,988
+373805,Blafjall,Iceland,65.43,-16.85,1222
+373806,Burfell,Iceland,65.55,-16.65,953
+373807,Fjallgardar Ridge,Iceland,65.5,-15.67,1035
+373808,Gaesafjoll,Iceland,65.775,-16.88,882
+373809,Lambafjoll,Iceland,65.875,-16.875,840
+377800,Sigurd,Norway,79.17,13.5,1100
+377801,Halvdan,Norway,79.33,13.5,834
+377802,Sverrefjell,Norway,79.43,13.3,506
+384030,Sao Vicente,Cape Verde,16.85,-24.97,725
+384800,Santo Antao,Cape Verde,17.07,-25.17,1979
+384801,Sao Nicolau,Cape Verde,16.62,-24.35,1270
+385051,Trindade,Brazil,-20.514,-29.331,600
+385801,Martin Vaz,Brazil,-20.47,-28.85,175
+386800,Inaccessible Island,United Kingdom,-37.303,-12.699,563
+386801,Gough Island,United Kingdom,-40.32,-9.93,910
+390014,Unnamed,Antarctica,-73.45,164.58,2987
+390810,Gaussberg,Antarctica,-66.78,89.3,370
+390811,Adare Peninsula,Antarctica,-71.7,170.6,2083
+390812,"Rittmann, Mount",Antarctica,-73.45,165.5,2600
+390813,Terror,Antarctica,-77.52,168.55,3262
+390814,Hut Point Peninsula,Antarctica,-77.75,166.75,431
+390815,White Island,Antarctica,-78.17,167.5,762
+390816,Black Island,Antarctica,-78.22,166.33,1041
+390817,Transantarctic Mountain Foothills,Antarctica,-78,163.83,0
+390818,Mason Spurr,Antarctica,-78.58,164.37,0
+390819,Taylor Valley,Antarctica,-77.748,161.526,1489
+390820,Bursey,Antarctica,-76,-132.67,2787
+390821,Obiglio,Antarctica,-74.458,-131.848,488
+390822,Shepard Island,Antarctica,-74.424,-132.55,487
+390823,Crary Group,Antarctica,-76.767,-117.717,3654
+390824,Murphy,Antarctica,-75.37,-110.67,2703
+390825,Beethoven Peninsula,Antarctica,-71.55,-73.42,1050
+390826,Brabant Island,Antarctica,-64.28,-62.33,2522
+390827,Livingston-Greenwich Islands,Antarctica,-62.52,-60.02,530
+390828,Tabarin Peninsula,Antarctica,-63.6,-57,730
+390830,Argo Point,Antarctica,-66.25,-60.92,360
+390844,Franklin Island,Antarctica,-76.17,168.38,247
+390845,Beaufort Island,Antarctica,-76.98,167.02,740
+422820,Lenderut,Kenya,-2.095,36.285,1225
+422821,Shombole,Kenya,-2.131,36.1,1527
+422826,Tukuyu,Tanzania,-9.26,33.648,1541
+422827,Katete,Tanzania,-9.112,33.746,2481
+430815,"Qiranah, Jabal al",Jordan,30.73,35.75,0
+461838,Raja-Sabanda,Indonesia,-2.228,101.43,2527
+461839,Hulunilo,Indonesia,-2.418,101.776,2469
+461840,Tungkat,Indonesia,-2.48,102.026,1576
+464807,Ramu-Labumbu,Indonesia,-8.416,118.207,1086
+590835,Discovery,Antarctica,-78.374,165.015,2578
