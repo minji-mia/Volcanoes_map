@@ -14,6 +14,8 @@
 ## Built with
 
 - [Python 3.7](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Folium](https://python-visualization.github.io/folium/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## License
