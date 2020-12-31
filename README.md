@@ -10,3 +10,12 @@
 ![map4](https://user-images.githubusercontent.com/52568892/97360739-94fbda00-186c-11eb-9590-2e766f51a0bf.jpg)
 ![map5](https://user-images.githubusercontent.com/52568892/97360798-aa710400-186c-11eb-9371-a30b10cba1a7.jpg)
 ![image](https://user-images.githubusercontent.com/52568892/97360874-c4124b80-186c-11eb-84ef-78a44c69b38f.png)
+
+## Built with
+
+- [Python 3.7](https://www.python.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## License
+
+This project is licensed under the [MIT](https://github.com/minji-mia/Volcanoes_map/blob/master/LICENSE) License
