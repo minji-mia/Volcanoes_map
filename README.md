@@ -1,8 +1,11 @@
 # Volcanoes map
+This project is for HTML view of the interactive map, which displays the names of volcanoes as a link, coordinates, and height from the CVS source file read by Pandas.
 
 ![volcanoes-map](https://user-images.githubusercontent.com/52568892/103412265-e01abd80-4b39-11eb-89aa-59d96637423c.png)
 
 ## Screenshots 
+
+A layer control button at the top-right hand corner in the map to select 2 types of feature group such as Holocene volcanoes and Pleistocene volcanoes classified by Folium.
 
 ![Screenshot 2020-10-27 154917](https://user-images.githubusercontent.com/52568892/97360400-274fae00-186c-11eb-8631-bb9ec60f4f19.jpg)
 ![map2](https://user-images.githubusercontent.com/52568892/97360528-549c5c00-186c-11eb-8a18-704a97671be1.jpg)
